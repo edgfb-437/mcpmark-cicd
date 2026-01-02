@@ -1,6 +1,5 @@
-const unusedVar = 'this is unused';
-console.log("Hello, world!");
-let x = 5
+// Fixed linting errors
+let x = 5;
 function test() {
-  return "test";
+  return 'test';
 }
